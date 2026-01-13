@@ -2,11 +2,14 @@ team: Leopards
 
 manager: Dooli
 
+<<<<<<< HEAD
+coach: Nicholas
+=======
 coach: Melissa
+>>>>>>> f721363 (Edit Leopards)
 
 members:
 - Linda
 - William
 - David
 - Olivia
-- Evie
